@@ -1,4 +1,4 @@
-from pyCropper import PyCropper
+from PyImageCropper.pyCropper import PyCropper
 from zipfile import ZipFile
 import sys
 import os, shutil
